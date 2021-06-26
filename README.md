@@ -1,5 +1,9 @@
 ### Hi 
-  I'm Beatriz, but you can call me Bia, I'm a 22 years old Brazilian developer and enthusiastic about all tech-related things. I'm pursuing both an Information System and Digital Games degree. I like to code a bunch of different things, but my main focus is mobile and game dev.Besides coding, which I also like to think of as a hobby, I'm also an avid reader and series addict. Anyway, you can also find me on IG where I share my journey in tech @developerbia.
+  I'm Beatriz, but you can call me Bia, I'm a 22 years old Brazilian developer and enthusiastic about all tech-related things. I'm pursuing both an Information System and Digital Games degree. I like to code a bunch of different things, but my main focus is mobile and game dev. Right now I'm mostly working with flutter and also making games with unity in c#.
+
+<br>Besides coding, which I also like to think of as a hobby, I'm also an avid reader and series addict. Anyway, you can also find me on IG where I share my journey in tech <a href="https://www.instagram.com/developerbia/">@developerbia</a>.
+
+  
 <!--
 **raangelbeatriz/raangelbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
