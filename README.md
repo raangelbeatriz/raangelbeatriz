@@ -3,12 +3,14 @@
 
 <br>Besides coding, which I also like to think of as a hobby, I'm also an avid reader and series addict. Anyway, you can also find me on IG where I share my journey in tech <a href="https://www.instagram.com/developerbia/">@developerbia</a>.
 
+<br> You can see a few games I've been developing here <a href="https://beatrizrangel.itch.io/">my itch io page</a>. 
+
 <div>
  <img height="180em" src="https://github-readme-stats-snowy-three.vercel.app/api?username=raangelbeatriz&show_icons=true&theme=radical"/>
  <img height="180em" src="https://github-readme-stats-snowy-three.vercel.app/api/top-langs/?username=raangelbeatriz&hide=shaderlab,hlsl&layout=compact&theme=radical"/>
 </div>
 
-<br> You can see a few games I've been developing here <a href="https://beatrizrangel.itch.io/">my itch io page</a>. 
+
 <!--
 **raangelbeatriz/raangelbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
