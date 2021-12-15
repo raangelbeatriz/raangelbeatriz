@@ -8,6 +8,7 @@
  <img height="180em" src="https://github-readme-stats-snowy-three.vercel.app/api/top-langs/?username=raangelbeatriz&hide=shaderlab,hlsl&layout=compact&theme=radical"/>
 </div>
 
+<br> You can see a few games I've been developing here <a href=https://beatrizrangel.itch.io/">My Itch.IO Page</a>. 
 <!--
 **raangelbeatriz/raangelbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
